@@ -27,8 +27,16 @@ public class PlayerController : MonoBehaviour
 		
 		
 		rb2d.velocity = new Vector2(moveX * speed,moveY * speed);
-		
+		if(rb2d.velocity.x > 0.1f && !facingRight)
+		{
+			Flip();
+		}
+		if(rb2d.velocity.x < -0.1f && facingRight)
+		{
+			Flip();
+		}
 	}
+	
 	public void Flip()
 	{
 		facingRight = !facingRight;
