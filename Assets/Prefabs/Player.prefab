@@ -119,8 +119,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.069677114, y: 0.04181528}
-  m_Size: {x: 1.4704547, y: 5.8538694}
+  m_Offset: {x: 0.007399559, y: 0.044365525}
+  m_Size: {x: 0.72312737, y: 2.7342308}
   m_Direction: 0
 --- !u!61 &7892457385577300126
 BoxCollider2D:
@@ -135,18 +135,18 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.083611965, y: -2.7458744}
+  m_Offset: {x: -0.009804249, y: -1.2928776}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2, y: 5.9375}
+    oldSize: {x: 1, y: 2.96875}
     newSize: {x: 2, y: 5.9375}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.43923473, y: 0.4457512}
+  m_Size: {x: 0.43923473, y: 0.40513492}
   m_EdgeRadius: 0
 --- !u!50 &7892457385577300099
 Rigidbody2D:
@@ -163,7 +163,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 4
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -182,5 +182,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
-  jumpHeight: 3
+  jumpHeight: 20
   grounded: 0
