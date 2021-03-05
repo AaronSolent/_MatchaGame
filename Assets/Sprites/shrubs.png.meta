@@ -1,0 +1,2604 @@
+fileFormatVersion: 2
+guid: 4dc0951962cf32e4d8e80110c1fde0fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8152813576888098136
+    second: shrubs_0
+  - first:
+      213: -5221230292971442157
+    second: shrubs_1
+  - first:
+      213: 5206453371460461345
+    second: shrubs_2
+  - first:
+      213: 6980672988266173809
+    second: shrubs_3
+  - first:
+      213: -5467969099793983503
+    second: shrubs_4
+  - first:
+      213: 7866204293125370547
+    second: shrubs_5
+  - first:
+      213: 5688235464236722419
+    second: shrubs_6
+  - first:
+      213: -2822024172239395280
+    second: shrubs_7
+  - first:
+      213: -5976831765086009489
+    second: shrubs_8
+  - first:
+      213: 3134322307334266976
+    second: shrubs_9
+  - first:
+      213: -4124213145145739506
+    second: shrubs_10
+  - first:
+      213: 2366375155185216646
+    second: shrubs_11
+  - first:
+      213: 4680954099706533240
+    second: shrubs_12
+  - first:
+      213: -8479555794153493812
+    second: shrubs_13
+  - first:
+      213: 638110623976162483
+    second: shrubs_14
+  - first:
+      213: -4477136812362757216
+    second: shrubs_15
+  - first:
+      213: 1983650133848856612
+    second: shrubs_16
+  - first:
+      213: 7098168590063124016
+    second: shrubs_17
+  - first:
+      213: 3228114721254860714
+    second: shrubs_18
+  - first:
+      213: 2609378718563961174
+    second: shrubs_19
+  - first:
+      213: 477958671969474062
+    second: shrubs_20
+  - first:
+      213: 2416846398778768157
+    second: shrubs_21
+  - first:
+      213: -542202192314862063
+    second: shrubs_22
+  - first:
+      213: -8853353447936496282
+    second: shrubs_23
+  - first:
+      213: 9038824856332503093
+    second: shrubs_24
+  - first:
+      213: -5306780245386178545
+    second: shrubs_25
+  - first:
+      213: -5667787226259019799
+    second: shrubs_26
+  - first:
+      213: -4760242421791069261
+    second: shrubs_27
+  - first:
+      213: 4823450471041548010
+    second: shrubs_28
+  - first:
+      213: -5291574555171754649
+    second: shrubs_29
+  - first:
+      213: -8291710663036939005
+    second: shrubs_30
+  - first:
+      213: 2431043558734514117
+    second: shrubs_31
+  - first:
+      213: 4468728585631613583
+    second: shrubs_32
+  - first:
+      213: 2389043364650107128
+    second: shrubs_33
+  - first:
+      213: 4217265729398912747
+    second: shrubs_34
+  - first:
+      213: 3313292495293630787
+    second: shrubs_35
+  - first:
+      213: -5992361532899433723
+    second: shrubs_36
+  - first:
+      213: -2585106713513160197
+    second: shrubs_37
+  - first:
+      213: 784342822165494218
+    second: shrubs_38
+  - first:
+      213: 7260695055883536954
+    second: shrubs_39
+  - first:
+      213: 2347344494294646987
+    second: shrubs_40
+  - first:
+      213: -5639822837529484890
+    second: shrubs_41
+  - first:
+      213: -8155938471714906600
+    second: shrubs_42
+  - first:
+      213: 3329756471477776507
+    second: shrubs_43
+  - first:
+      213: -6451234554229529417
+    second: shrubs_44
+  - first:
+      213: -2841506735110594514
+    second: shrubs_45
+  - first:
+      213: -261009299161978050
+    second: shrubs_46
+  - first:
+      213: -5810985311239941034
+    second: shrubs_47
+  - first:
+      213: 8888043483144285097
+    second: shrubs_48
+  - first:
+      213: 5067649385341617901
+    second: shrubs_49
+  - first:
+      213: 7413769876485292345
+    second: shrubs_50
+  - first:
+      213: -4862292896663715129
+    second: shrubs_51
+  - first:
+      213: 5525315241523359427
+    second: shrubs_52
+  - first:
+      213: 1215287374026276915
+    second: shrubs_53
+  - first:
+      213: -6127660865203456310
+    second: shrubs_54
+  - first:
+      213: 3242456326418499180
+    second: shrubs_55
+  - first:
+      213: 6517997097484237609
+    second: shrubs_56
+  - first:
+      213: 6399442796470713759
+    second: shrubs_57
+  - first:
+      213: 3751562499355311967
+    second: shrubs_58
+  - first:
+      213: -7073074547699071989
+    second: shrubs_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shrubs_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: 15}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -14, y: -13}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -12}
+        - {x: 16, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 8a26a9d4f336bde80800000000000000
+      internalID: -8152813576888098136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: 15}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -14, y: -13}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -12}
+        - {x: 16, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 310bde836b67a87b0800000000000000
+      internalID: -5221230292971442157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: 15}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -14, y: -13}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -12}
+        - {x: 16, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 1232981a1c9014840800000000000000
+      internalID: 5206453371460461345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: 15}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -14, y: -13}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -12}
+        - {x: 16, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 17515cef81550e060800000000000000
+      internalID: 6980672988266173809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 13, y: 8}
+        - {x: 13, y: 11}
+        - {x: 12, y: 12}
+        - {x: 12, y: 15}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: 10}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 1f797f3031fdd14b0800000000000000
+      internalID: -5467969099793983503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -13}
+        - {x: 14, y: -12}
+        - {x: 16, y: -13}
+        - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -9, y: 13}
+        - {x: -12, y: 13}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -13, y: -13}
+        - {x: -12, y: -12}
+        - {x: -6, y: -12}
+        - {x: -5, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3b2f36ea02f5a2d60800000000000000
+      internalID: 7866204293125370547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 13, y: 8}
+        - {x: 13, y: 11}
+        - {x: 12, y: 12}
+        - {x: 12, y: 15}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: 10}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3f8eb94640ca0fe40800000000000000
+      internalID: 5688235464236722419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -13}
+        - {x: 14, y: -12}
+        - {x: 16, y: -13}
+        - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -9, y: 13}
+        - {x: -12, y: 13}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -13, y: -13}
+        - {x: -12, y: -12}
+        - {x: -6, y: -12}
+        - {x: -5, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 036ea1297f726d8d0800000000000000
+      internalID: -2822024172239395280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 13, y: 8}
+        - {x: 13, y: 11}
+        - {x: 12, y: 12}
+        - {x: 12, y: 15}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: 10}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: f6707cf1d270e0da0800000000000000
+      internalID: -5976831765086009489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -13}
+        - {x: 14, y: -12}
+        - {x: 16, y: -13}
+        - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -9, y: 13}
+        - {x: -12, y: 13}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -13, y: -13}
+        - {x: -12, y: -12}
+        - {x: -6, y: -12}
+        - {x: -5, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 060ed3c38895f7b20800000000000000
+      internalID: 3134322307334266976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 13, y: 8}
+        - {x: 13, y: 11}
+        - {x: 12, y: 12}
+        - {x: 12, y: 15}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: 10}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: e077799def9d3c6c0800000000000000
+      internalID: -4124213145145739506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -13}
+        - {x: 14, y: -12}
+        - {x: 16, y: -13}
+        - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -9, y: 13}
+        - {x: -12, y: 13}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -13, y: -13}
+        - {x: -12, y: -12}
+        - {x: -6, y: -12}
+        - {x: -5, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 68cef128aad07d020800000000000000
+      internalID: 2366375155185216646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -12, y: 10}
+        - {x: -12, y: 7}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -12}
+        - {x: 16, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 8759ae2f3f616f040800000000000000
+      internalID: 4680954099706533240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 12, y: 9}
+        - {x: 10, y: 12}
+        - {x: 7, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -9, y: 13}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -14, y: -13}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: cca206c8ee0925a80800000000000000
+      internalID: -8479555794153493812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -12, y: 10}
+        - {x: -12, y: 7}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -12}
+        - {x: 16, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3b4808d4b360bd800800000000000000
+      internalID: 638110623976162483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 12, y: 9}
+        - {x: 10, y: 12}
+        - {x: 7, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -9, y: 13}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -14, y: -13}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 0ab0b404ac30ed1c0800000000000000
+      internalID: -4477136812362757216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -12, y: 10}
+        - {x: -12, y: 7}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -12}
+        - {x: 16, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 42897b27947578b10800000000000000
+      internalID: 1983650133848856612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 12, y: 9}
+        - {x: 10, y: 12}
+        - {x: 7, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -9, y: 13}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -14, y: -13}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 03e3c8699b2c18260800000000000000
+      internalID: 7098168590063124016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -12, y: 10}
+        - {x: -12, y: 7}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -12}
+        - {x: 16, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: aa7ea965c319ccc20800000000000000
+      internalID: 3228114721254860714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 12, y: 9}
+        - {x: 10, y: 12}
+        - {x: 7, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -9, y: 13}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -14, y: -13}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 65908749e10663420800000000000000
+      internalID: 2609378718563961174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -12}
+        - {x: 16, y: -13}
+        - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: 10}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -7}
+        - {x: -5, y: -13}
+        - {x: 2, y: -13}
+        - {x: 3, y: -12}
+        - {x: 4, y: -13}
+        - {x: 12, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: e06de0c31ec02a600800000000000000
+      internalID: 477958671969474062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -13}
+        - {x: 12, y: -11}
+        - {x: 13, y: -8}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+        - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 13, y: 8}
+        - {x: 13, y: 11}
+        - {x: 12, y: 12}
+        - {x: 12, y: 15}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: 15}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -13, y: -13}
+        - {x: -12, y: -12}
+        - {x: -6, y: -12}
+        - {x: -5, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: d1bf3e3aefc5a8120800000000000000
+      internalID: 2416846398778768157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -12}
+        - {x: 16, y: -13}
+        - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: 10}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -7}
+        - {x: -5, y: -13}
+        - {x: 2, y: -13}
+        - {x: 3, y: -12}
+        - {x: 4, y: -13}
+        - {x: 12, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 11672a29af5b978f0800000000000000
+      internalID: -542202192314862063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -13}
+        - {x: 12, y: -11}
+        - {x: 13, y: -8}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+        - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 13, y: 8}
+        - {x: 13, y: 11}
+        - {x: 12, y: 12}
+        - {x: 12, y: 15}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: 15}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -13, y: -13}
+        - {x: -12, y: -12}
+        - {x: -6, y: -12}
+        - {x: -5, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 66de3c832f1922580800000000000000
+      internalID: -8853353447936496282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -12}
+        - {x: 16, y: -13}
+        - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: 10}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -7}
+        - {x: -5, y: -13}
+        - {x: 2, y: -13}
+        - {x: 3, y: -12}
+        - {x: 4, y: -13}
+        - {x: 12, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5388bac215b507d70800000000000000
+      internalID: 9038824856332503093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -13}
+        - {x: 12, y: -11}
+        - {x: 13, y: -8}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+        - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 13, y: 8}
+        - {x: 13, y: 11}
+        - {x: 12, y: 12}
+        - {x: 12, y: 15}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: 15}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -13, y: -13}
+        - {x: -12, y: -12}
+        - {x: -6, y: -12}
+        - {x: -5, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: f0052bcbb778a56b0800000000000000
+      internalID: -5306780245386178545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -12}
+        - {x: 16, y: -13}
+        - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: 10}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -7}
+        - {x: -5, y: -13}
+        - {x: 2, y: -13}
+        - {x: 3, y: -12}
+        - {x: 4, y: -13}
+        - {x: 12, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 9e7a5540c89f751b0800000000000000
+      internalID: -5667787226259019799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -13}
+        - {x: 12, y: -11}
+        - {x: 13, y: -8}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+        - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 13, y: 8}
+        - {x: 13, y: 11}
+        - {x: 12, y: 12}
+        - {x: 12, y: 15}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: 15}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -13, y: -13}
+        - {x: -12, y: -12}
+        - {x: -6, y: -12}
+        - {x: -5, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3bbe56cfcb830fdb0800000000000000
+      internalID: -4760242421791069261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -13}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+        - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 13, y: 8}
+        - {x: 13, y: 11}
+        - {x: 12, y: 12}
+        - {x: 12, y: 15}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: 10}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -8}
+        - {x: -13, y: -9}
+        - {x: -14, y: -10}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 10, y: -16}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: aee3f1ec5a650f240800000000000000
+      internalID: 4823450471041548010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -13}
+        - {x: 16, y: -10}
+        - {x: 16, y: 9}
+        - {x: 13, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -9, y: 13}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -13, y: -13}
+        - {x: -12, y: -12}
+        - {x: -6, y: -12}
+        - {x: -5, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 76ded706afc8096b0800000000000000
+      internalID: -5291574555171754649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -13}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+        - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 13, y: 8}
+        - {x: 13, y: 11}
+        - {x: 12, y: 12}
+        - {x: 12, y: 15}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: 10}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -8}
+        - {x: -13, y: -9}
+        - {x: -14, y: -10}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 10, y: -16}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3055d55551dedec80800000000000000
+      internalID: -8291710663036939005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -13}
+        - {x: 16, y: -10}
+        - {x: 16, y: 9}
+        - {x: 13, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -9, y: 13}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -13, y: -13}
+        - {x: -12, y: -12}
+        - {x: -6, y: -12}
+        - {x: -5, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5c74fd78c3dccb120800000000000000
+      internalID: 2431043558734514117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -13}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+        - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 13, y: 8}
+        - {x: 13, y: 11}
+        - {x: 12, y: 12}
+        - {x: 12, y: 15}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: 10}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -8}
+        - {x: -13, y: -9}
+        - {x: -14, y: -10}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 10, y: -16}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: f82c438e8fc140e30800000000000000
+      internalID: 4468728585631613583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -13}
+        - {x: 16, y: -10}
+        - {x: 16, y: 9}
+        - {x: 13, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -9, y: 13}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -13, y: -13}
+        - {x: -12, y: -12}
+        - {x: -6, y: -12}
+        - {x: -5, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 8f049fe4846972120800000000000000
+      internalID: 2389043364650107128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -13}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+        - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 13, y: 8}
+        - {x: 13, y: 11}
+        - {x: 12, y: 12}
+        - {x: 12, y: 15}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: 10}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -8}
+        - {x: -13, y: -9}
+        - {x: -14, y: -10}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 10, y: -16}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: be6304c36dcb68a30800000000000000
+      internalID: 4217265729398912747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -13}
+        - {x: 16, y: -10}
+        - {x: 16, y: 9}
+        - {x: 13, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -9, y: 13}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -13, y: -13}
+        - {x: -12, y: -12}
+        - {x: -6, y: -12}
+        - {x: -5, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 349c1fa48fd2bfd20800000000000000
+      internalID: 3313292495293630787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 13, y: 10}
+        - {x: 7, y: 16}
+        - {x: -9, y: 16}
+        - {x: -12, y: 13}
+        - {x: -12, y: 7}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 50360d94fead6dca0800000000000000
+      internalID: -5992361532899433723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -13}
+        - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -15, y: 11}
+        - {x: -16, y: 8}
+        - {x: -16, y: 2}
+        - {x: -14, y: 0}
+        - {x: -16, y: -3}
+        - {x: -16, y: -6}
+        - {x: -15, y: -7}
+        - {x: -15, y: -10}
+        - {x: -13, y: -12}
+        - {x: -6, y: -12}
+        - {x: -5, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -12}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: bf1129af32bdf1cd0800000000000000
+      internalID: -2585106713513160197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 13, y: 10}
+        - {x: 7, y: 16}
+        - {x: -9, y: 16}
+        - {x: -12, y: 13}
+        - {x: -12, y: 7}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: ac93d4124ab82ea00800000000000000
+      internalID: 784342822165494218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -13}
+        - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -15, y: 11}
+        - {x: -16, y: 8}
+        - {x: -16, y: 2}
+        - {x: -14, y: 0}
+        - {x: -16, y: -3}
+        - {x: -16, y: -6}
+        - {x: -15, y: -7}
+        - {x: -15, y: -10}
+        - {x: -13, y: -12}
+        - {x: -6, y: -12}
+        - {x: -5, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -12}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: a3a8f5c3fab23c460800000000000000
+      internalID: 7260695055883536954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 13, y: 10}
+        - {x: 7, y: 16}
+        - {x: -9, y: 16}
+        - {x: -12, y: 13}
+        - {x: -12, y: 7}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: bc0c6eb7161739020800000000000000
+      internalID: 2347344494294646987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -13}
+        - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -15, y: 11}
+        - {x: -16, y: 8}
+        - {x: -16, y: 2}
+        - {x: -14, y: 0}
+        - {x: -16, y: -3}
+        - {x: -16, y: -6}
+        - {x: -15, y: -7}
+        - {x: -15, y: -10}
+        - {x: -13, y: -12}
+        - {x: -6, y: -12}
+        - {x: -5, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -12}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 6a16be4a2035bb1b0800000000000000
+      internalID: -5639822837529484890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 13, y: 10}
+        - {x: 7, y: 16}
+        - {x: -9, y: 16}
+        - {x: -12, y: 13}
+        - {x: -12, y: 7}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 81e9d770c2940de80800000000000000
+      internalID: -8155938471714906600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -13}
+        - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -15, y: 11}
+        - {x: -16, y: 8}
+        - {x: -16, y: 2}
+        - {x: -14, y: 0}
+        - {x: -16, y: -3}
+        - {x: -16, y: -6}
+        - {x: -15, y: -7}
+        - {x: -15, y: -10}
+        - {x: -13, y: -12}
+        - {x: -6, y: -12}
+        - {x: -5, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -12}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: b70bdf67edba53e20800000000000000
+      internalID: 3329756471477776507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -9, y: 13}
+        - {x: -12, y: 13}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -14, y: -13}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -12}
+        - {x: 16, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 7b46c606a5c9876a0800000000000000
+      internalID: -6451234554229529417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 13, y: 8}
+        - {x: 13, y: 11}
+        - {x: 12, y: 12}
+        - {x: 12, y: 15}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: 15}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -14, y: -13}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: e206adaeda0f098d0800000000000000
+      internalID: -2841506735110594514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -9, y: 13}
+        - {x: -12, y: 13}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -14, y: -13}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -12}
+        - {x: 16, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: e3b6060ec65b06cf0800000000000000
+      internalID: -261009299161978050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 13, y: 8}
+        - {x: 13, y: 11}
+        - {x: 12, y: 12}
+        - {x: 12, y: 15}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: 15}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -14, y: -13}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 654d788b5ab3b5fa0800000000000000
+      internalID: -5810985311239941034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -9, y: 13}
+        - {x: -12, y: 13}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -14, y: -13}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -12}
+        - {x: 16, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 9ab6a01057ca85b70800000000000000
+      internalID: 8888043483144285097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 13, y: 8}
+        - {x: 13, y: 11}
+        - {x: 12, y: 12}
+        - {x: 12, y: 15}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: 15}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -14, y: -13}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: de683833448e35640800000000000000
+      internalID: 5067649385341617901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 13}
+        - {x: 2, y: 13}
+        - {x: 1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -9, y: 13}
+        - {x: -12, y: 13}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -14, y: -13}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -12}
+        - {x: 16, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 931c56e3c6003e660800000000000000
+      internalID: 7413769876485292345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 5}
+        - {x: 12, y: 6}
+        - {x: 13, y: 8}
+        - {x: 13, y: 11}
+        - {x: 12, y: 12}
+        - {x: 12, y: 15}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: 15}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -14, y: -13}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -5}
+        - {x: 11, y: -3}
+        - {x: 13, y: -1}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 7c2447c3f5aa58cb0800000000000000
+      internalID: -4862292896663715129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: 10}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -8}
+        - {x: -13, y: -9}
+        - {x: -14, y: -10}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -12}
+        - {x: 16, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3ce2d0310fcddac40800000000000000
+      internalID: 5525315241523359427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -13}
+        - {x: 3, y: -12}
+        - {x: 4, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -12}
+        - {x: 16, y: -13}
+        - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: 15}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -13, y: -13}
+        - {x: -12, y: -12}
+        - {x: -6, y: -12}
+        - {x: -5, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3308ad48d619dd010800000000000000
+      internalID: 1215287374026276915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: 10}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -8}
+        - {x: -13, y: -9}
+        - {x: -14, y: -10}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -12}
+        - {x: 16, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: ac63c79a8ec26faa0800000000000000
+      internalID: -6127660865203456310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -13}
+        - {x: 3, y: -12}
+        - {x: 4, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -12}
+        - {x: 16, y: -13}
+        - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: 15}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -13, y: -13}
+        - {x: -12, y: -12}
+        - {x: -6, y: -12}
+        - {x: -5, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: c6684ef79d48ffc20800000000000000
+      internalID: 3242456326418499180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: 10}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -8}
+        - {x: -13, y: -9}
+        - {x: -14, y: -10}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -12}
+        - {x: 16, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 92b339a83d3947a50800000000000000
+      internalID: 6517997097484237609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -13}
+        - {x: 3, y: -12}
+        - {x: 4, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -12}
+        - {x: 16, y: -13}
+        - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: 15}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -13, y: -13}
+        - {x: -12, y: -12}
+        - {x: -6, y: -12}
+        - {x: -5, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: f9db11451536fc850800000000000000
+      internalID: 6399442796470713759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: 10}
+        - {x: -11, y: 6}
+        - {x: -14, y: 1}
+        - {x: -14, y: -8}
+        - {x: -13, y: -9}
+        - {x: -14, y: -10}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -12}
+        - {x: 16, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: f5fffbe673a301430800000000000000
+      internalID: 3751562499355311967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shrubs_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -13}
+        - {x: 3, y: -12}
+        - {x: 4, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -12}
+        - {x: 16, y: -13}
+        - {x: 16, y: 14}
+        - {x: 12, y: 14}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: 15}
+        - {x: -13, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -13}
+        - {x: -13, y: -13}
+        - {x: -12, y: -12}
+        - {x: -6, y: -12}
+        - {x: -5, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: b044a827c2467dd90800000000000000
+      internalID: -7073074547699071989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
